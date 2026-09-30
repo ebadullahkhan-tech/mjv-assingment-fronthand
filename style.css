@@ -82,8 +82,9 @@ body {
     margin-bottom: 25px;
 }
 
-.cards:hover {
-    color: #888888;
+.card:hover {       
+    border-color: #555555;             
+    cursor: pointer;              
 }
 
 .card .link {
