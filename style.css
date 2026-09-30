@@ -79,11 +79,10 @@ body {
 .card p {
     color: #aaaaaa;
     font-size: 14px;
-    line-height: 1.5;
     margin-bottom: 25px;
 }
 
-.cards hover {
+.cards:hover {
     color: #888888;
 }
 
